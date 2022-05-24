@@ -1,0 +1,36 @@
+body {
+    font-family: 'special Elite', cursive;
+    background-color: #e2e8dd;
+}
+
+.header_div {
+    background: #95a3a4;
+    color: black;
+}
+
+.header_div p {
+    font-family: 'Varela Round', sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Varela Round', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    background: white;
+    color: black;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
